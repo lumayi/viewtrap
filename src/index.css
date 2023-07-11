@@ -4,7 +4,7 @@
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
 
 #root {
-  @apply h-screen w-screen;
+  @apply min-h-screen w-screen;
 }
 
 body {

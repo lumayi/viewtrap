@@ -8,7 +8,6 @@ export default function NotFound() {
           src="https://giphy.com/embed/7NoNw4pMNTvgc"
           width="480"
           height="480"
-          class="giphy-embed"
           allowFullScreen
           title="notfound-image"
           className="rounded-full"

@@ -10,7 +10,7 @@ export default class Youtube {
     return this.client
       .video({
         params: {
-          part: 'statistics',
+          part: 'contentDetails,statistics',
           id: videoId,
         },
       })
@@ -29,7 +29,7 @@ export default class Youtube {
   }
 
   #yunakim() {
-    this.client
+    return this.client
       .search({
         params: {
           part: 'snippet',
@@ -42,7 +42,7 @@ export default class Youtube {
   }
 
   #keywordSearch(keyword) {
-    this.client
+    return this.client
       .search({
         params: {
           part: 'snippet',

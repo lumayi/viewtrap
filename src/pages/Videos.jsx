@@ -1,8 +1,12 @@
 import React from 'react';
 import VideosNav from '../components/VideosNav';
 import Video from '../components/Video';
+import { useQuery } from '@tanstack/react-query';
+import { useYoutubeContext } from '../context/YoutubeContext';
 
 export default function Videos() {
+  const { youtube } = useYoutubeContext();
+  const { isLoading, error, data: videos } = useQuery([''], async () => {});
   return (
     <>
       <VideosNav />

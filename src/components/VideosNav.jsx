@@ -29,7 +29,7 @@ export default function VideosNav() {
           </button>
         </form>
         <button className="text-sm bg-0-main text-white px-3 rounded">
-          주방템(예시) 1회 검색
+          김연아(예시) 1회 검색
         </button>
         <div className="flex gap-2">
           <button

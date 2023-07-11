@@ -33,7 +33,7 @@ export default class Youtube {
       .search({
         params: {
           part: 'snippet',
-          maxResults: 25,
+          maxResults: 200,
           type: 'video',
           q: '김연아',
         },
@@ -46,7 +46,7 @@ export default class Youtube {
       .search({
         params: {
           part: 'snippet',
-          maxResults: 25,
+          maxResults: 200,
           type: 'video',
           q: keyword,
         },

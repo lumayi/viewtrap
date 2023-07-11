@@ -3,14 +3,16 @@ import VideosNav from '../components/VideosNav';
 import Video from '../components/Video';
 import { useQuery } from '@tanstack/react-query';
 import { useYoutubeContext } from '../context/YoutubeContext';
+import { useParams } from 'react-router-dom';
 
-export default function Videos({ keyword }) {
+export default function Videos() {
+  const { keyword } = useParams();
   const { youtube } = useYoutubeContext();
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery(['videos', keyword], () => youtube.search());
+  } = useQuery(['videos', keyword], () => youtube.search(keyword));
   return (
     <>
       <VideosNav />

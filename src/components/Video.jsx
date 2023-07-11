@@ -2,7 +2,7 @@ import { useQuery } from '@tanstack/react-query';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useYoutubeContext } from '../context/YoutubeContext';
-import { dateFormatter, durationFormatter } from '../utils';
+import { dateFormatter, durationFormatter, thousandFormatter } from '../utils';
 
 export default function Video({ video }) {
   const { youtube } = useYoutubeContext();
@@ -38,9 +38,13 @@ export default function Video({ video }) {
           <td>
             <span className="text-sm">{title}</span>
           </td>
-          <td className="text-sm">{detail.statistics.viewCount}</td>
+          <td className="text-sm">
+            {thousandFormatter(detail.statistics.viewCount)}
+          </td>
           <td className="text-sm">{channelTitle}</td>
-          <td className="text-sm">{channel.statistics.subscriberCount}</td>
+          <td className="text-sm">
+            {thousandFormatter(channel.statistics.subscriberCount)}
+          </td>
           <td className="text-sm">{dateFormatter(publishTime)}</td>
         </tr>
       )}

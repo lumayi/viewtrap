@@ -17,7 +17,7 @@ import {
 
 export default function Header() {
   return (
-    <header className="bg-white h-14 flex items-center px-4 justify-between border border-b-0-main">
+    <header className="bg-white h-14 flex items-center px-4 justify-between border border-b-0-main sticky top-0 z-10">
       <div className="flex items-center gap-5 font-semibold">
         <Link to="/">
           <img src="/images/viewtrap-logo.png" alt="viewtrap-logo" />

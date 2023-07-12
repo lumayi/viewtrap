@@ -2,8 +2,11 @@ export default class Youtube {
   constructor(client) {
     this.client = client;
   }
-  async search(keyword) {
-    return keyword ? this.#keywordSearch(keyword) : this.#yunakim();
+
+  async search(keyword, pageToken) {
+    return keyword
+      ? this.#keywordSearch(keyword, pageToken)
+      : this.#yunakim(pageToken);
   }
 
   async video(videoId) {
@@ -28,29 +31,31 @@ export default class Youtube {
       .then((res) => res.data.items[0]);
   }
 
-  #yunakim() {
+  #yunakim(pageToken) {
     return this.client
       .search({
         params: {
           part: 'snippet',
-          maxResults: 200,
+          maxResults: 20,
           type: 'video',
           q: '김연아',
+          pageToken,
         },
       })
-      .then((res) => res.data.items);
+      .then((res) => res.data);
   }
 
-  #keywordSearch(keyword) {
+  #keywordSearch(keyword, pageToken) {
     return this.client
       .search({
         params: {
           part: 'snippet',
-          maxResults: 200,
+          maxResults: 20,
           type: 'video',
           q: keyword,
+          pageToken,
         },
       })
-      .then((res) => res.data.items);
+      .then((res) => res.data);
   }
 }

@@ -12,16 +12,18 @@ import { useNavigate, useParams } from 'react-router-dom';
 import cls from 'classnames';
 
 export default function VideosNav() {
+  const { keyword } = useParams();
   const [search, setSearch] = useState('');
   const [toggled, setToggled] = useState(false);
-  const { keyword } = useParams();
   const navigate = useNavigate();
   const history = JSON.parse(localStorage.getItem('history')) || [];
+
   const handleSumbit = (e) => {
     e.preventDefault();
+    if (!search) return;
     history.unshift(search);
     localStorage.setItem('history', JSON.stringify(history));
-    navigate(`/videos/${search}`);
+    navigate(`/videos/${search}`, { replace: true });
   };
   const handleHistory = () => setToggled(!toggled);
   useEffect(() => {

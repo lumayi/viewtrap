@@ -1,7 +1,8 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Dhdm5oU0c7dYJgXj5HR_IWGbGS4",
-  "nextPageToken": "CBkQAA",
+  "etag": "iQwctjM8yuCtKRJE_NoWn_oK-Do",
+  "nextPageToken": "CB4QAA",
+  "prevPageToken": "CAUQAQ",
   "regionCode": "KR",
   "pageInfo": {
     "totalResults": 679759,
@@ -10,172 +11,36 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "wY-c0ryoVZNlUvRnmwOzfZF01zI",
+      "etag": "GqRu_phMq5Nrx3KBOfg5bkYAGwY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "dMaZvpLzGyw"
+        "videoId": "-OMGc_3JFwQ"
       },
       "snippet": {
-        "publishedAt": "2023-06-29T12:01:00Z",
-        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
-        "title": "[#유퀴즈온더블럭] 김연아 2세도 피겨?? 절대 안돼🚫 “운동은 이제 꼴도 보기 싫어” 얼마나 힘들게 훈련했으면🥺 #김연아",
-        "description": "tvN 대유잼 영상은 나중에 보면 늦는다! 지금 꼭! 볼 동영상 #지금꼭볼동영상 #지꼭동 #유퀴즈온더블럭 #김연아 〈유퀴즈 온더블럭〉 ...",
+        "publishedAt": "2023-07-03T09:10:54Z",
+        "channelId": "UC920m3pMPH45qztdhppZhwA",
+        "title": "김연아의 18년 피겨 인생 비하인드 대방출 | #시절인연#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.200",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 유 퀴즈 온 더 블럭 [수] 저녁 8: 45 tvN #유퀴즈온더블럭 #유퀴즈 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dMaZvpLzGyw/default.jpg",
+            "url": "https://i.ytimg.com/vi/-OMGc_3JFwQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dMaZvpLzGyw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-OMGc_3JFwQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dMaZvpLzGyw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-OMGc_3JFwQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "디글 :Diggle",
+        "channelTitle": "유 퀴즈 온 더 튜브",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T12:01:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "K6NRJqh4ulGX6ZfoIi63Jy3Fhy8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hK47dorZTe4"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-29T12:00:37Z",
-        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
-        "title": "[#유퀴즈온더블럭] 누구보다 치열했던 피겨퀸 #김연아 자기님의 18년 선수 생활✨ ESFJ 연느님의 인간美 가득한 은퇴 후 일상까지💖 | #갓구운클립",
-        "description": "갓구운클립 #유퀴즈온더블럭 #tvN 〈유퀴즈 온더블럭〉 매주 수 오후 8시 45분 tvN에서! TVING으로 다시보기 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hK47dorZTe4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hK47dorZTe4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hK47dorZTe4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "tvN D ENT",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T12:00:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "AA2GvQWVnIn7mpoYzpRuTB32hSQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OAXoVh8H0yk"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-29T12:10:00Z",
-        "channelId": "UCWYzc_p0GgfCepIWDHGFmEg",
-        "title": "[#유퀴즈온더블럭] (1시간)🎉“기쁘다 연느 오셨다”🎉 동반 출연 케미 기대하게 만드는 커플 1위 김연아X고우림 러브 스토리💗",
-        "description": "길게 보는 tvN 핵꿀잼 영상! 저장해두고 나중에 보고 또 보자! #나중에또볼동영상 #나또동 #유퀴즈온더블럭 #김연아 #고우림 〈유 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OAXoVh8H0yk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OAXoVh8H0yk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OAXoVh8H0yk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "디글 :Diggle",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T12:10:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ZzsfqHhOWctFaXVug9cv4ygHw1A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "h6KB6eg4YqM"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-29T09:18:00Z",
-        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
-        "title": "아사다마오를 보고 울컥한 김연아",
-        "description": "유퀴즈온더블럭 #샾잉 #Shorts we're :DIGGLE family.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/h6KB6eg4YqM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/h6KB6eg4YqM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/h6KB6eg4YqM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "샾잉 #ing",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T09:18:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "kDlIlB7aB6cu1PLvq9X7OAQSnLw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "HKysn7-DNRM"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-29T12:00:19Z",
-        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
-        "title": "[#유퀴즈온더블럭] 김연아 동기부여짤 &quot;무슨 생각을 해 그냥 하는거지&quot;의 진실ㅋㅋㅋ😅 경기 때 한 번도 운 적 없다는 김연아가 아사다 마오를 보고 울컥한 이유는?⛸️",
-        "description": "유퀴즈온더블럭 #김연아 티빙에서 스트리밍    https://www.tving.com/contents/P000643144 tvN 〈유 퀴즈 온 더 블럭〉 매주 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HKysn7-DNRM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HKysn7-DNRM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HKysn7-DNRM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "샾잉 #ing",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T12:00:19Z"
+        "publishTime": "2023-07-03T09:10:54Z"
       }
     },
     {
@@ -248,104 +113,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GqRu_phMq5Nrx3KBOfg5bkYAGwY",
+      "etag": "9HDWWPNWAcEIzmSEsScySC314jQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "-OMGc_3JFwQ"
+        "videoId": "zMKxG1iQqqQ"
       },
       "snippet": {
-        "publishedAt": "2023-07-03T09:10:54Z",
-        "channelId": "UC920m3pMPH45qztdhppZhwA",
-        "title": "김연아의 18년 피겨 인생 비하인드 대방출 | #시절인연#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.200",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 유 퀴즈 온 더 블럭 [수] 저녁 8: 45 tvN #유퀴즈온더블럭 #유퀴즈 ...",
+        "publishedAt": "2023-07-09T18:14:02Z",
+        "channelId": "UCqI8s16q0YHTuik_3V3BCiA",
+        "title": "김연아의 금메달을 뺏어갔던 러시아 피겨 도핑 이야기 (ft. 소트니코바)",
+        "description": "러시아의 국가적 주도하에 있었던 도핑 스캔들 이야기를 다뤄봤습니다! 김연아 선수의 금메달을 다시 찾아올 수 있을까요?",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-OMGc_3JFwQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/zMKxG1iQqqQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-OMGc_3JFwQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zMKxG1iQqqQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-OMGc_3JFwQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zMKxG1iQqqQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "유 퀴즈 온 더 튜브",
+        "channelTitle": "크스 Creative Sports",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-07-03T09:10:54Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "NfhYFS3T77E54b65-Pj16lEpGDg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "J0v_kDX7qKk"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-08T20:54:11Z",
-        "channelId": "UC3JB6zvU_o8jYmVnzFM_9ig",
-        "title": "[영상포함] 김연아 금메달 빼앗은 소트니코바 도핑 고백! 당시 경기 영상 비교 (2014 소치 올림픽 피겨 스케이팅)",
-        "description": "[영상포함] 김연아 금메달 빼앗은 소트니코바 도핑 고백! 당시 경기 영상 비교 (2014 소치 올림픽 피겨 스케이팅) #김연아.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J0v_kDX7qKk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J0v_kDX7qKk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J0v_kDX7qKk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "해반총",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-08T20:54:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "7-p5_4adjjiPih05FJhiITNrR4E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4ni_qQsHa24"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-30T09:00:05Z",
-        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
-        "title": "[#유퀴즈온더블럭] 💗연느 특집 1시간💗 내가 원했던 게 김연아 X 고우림 부부였잖아✨ 둘의 첫 만남부터 은퇴 후 근황까지! | #티전드",
-        "description": "티전드 #유퀴즈온더블럭 #tvN 〈유퀴즈 온더블럭〉 매주 수 오후 8시 45분 tvN에서! TVING으로 다시보기 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4ni_qQsHa24/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4ni_qQsHa24/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4ni_qQsHa24/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "tvN D ENT",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-30T09:00:05Z"
+        "publishTime": "2023-07-09T18:14:02Z"
       }
     },
     {
@@ -418,6 +215,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "TPgOsGNXiCsJp9w9r-fvS79PREc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qWiycWucoIY"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-06T10:37:31Z",
+        "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
+        "title": "본드걸 세계를 사로 잡다 / 2010 밴쿠버 올림픽 쇼트 &#39;제임스 본드 메들리&#39; [퀸연아 다시 보기]",
+        "description": "본드걸 세계를 사로 잡다 / 2010 밴쿠버 올림픽 쇼트 '제임스 본드 메들리' [퀸연아 다시 보기] 세계를 사로잡은 본드걸 김연아 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWiycWucoIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWiycWucoIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWiycWucoIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스스포츠 SUBUSU SPORTS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-06T10:37:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "7RCC_jTb9UUcctaUkBn2mAt56_s",
       "id": {
         "kind": "youtube#video",
@@ -452,36 +283,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TPgOsGNXiCsJp9w9r-fvS79PREc",
+      "etag": "tqJ_qo96KXdKci1ktIUTl_yXjdc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qWiycWucoIY"
+        "videoId": "xDQfaFUxyi8"
       },
       "snippet": {
-        "publishedAt": "2020-01-06T10:37:31Z",
+        "publishedAt": "2019-06-05T14:17:55Z",
         "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
-        "title": "본드걸 세계를 사로 잡다 / 2010 밴쿠버 올림픽 쇼트 &#39;제임스 본드 메들리&#39; [퀸연아 다시 보기]",
-        "description": "본드걸 세계를 사로 잡다 / 2010 밴쿠버 올림픽 쇼트 '제임스 본드 메들리' [퀸연아 다시 보기] 세계를 사로잡은 본드걸 김연아 ...",
+        "title": "2013 ISU 세계피겨선수권 프리 &#39;레 미제라블&#39; [습츠_퀸연아 포에버]",
+        "description": "2013 ISU 세계피겨선수권 프리 '레 미제라블' [습츠_퀸연아 포에버] 기립박수를 이끈 여왕의 귀환...레 미제라블 ✓ 곡 : 레 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qWiycWucoIY/default.jpg",
+            "url": "https://i.ytimg.com/vi/xDQfaFUxyi8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qWiycWucoIY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xDQfaFUxyi8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qWiycWucoIY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xDQfaFUxyi8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "스브스스포츠 SUBUSU SPORTS",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-06T10:37:31Z"
+        "publishTime": "2019-06-05T14:17:55Z"
       }
     },
     {
@@ -588,74 +419,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "djlF-7LblV_vZebQZ55uZYtUJ2I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "f-6MqfR9RjI"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-09T03:00:20Z",
-        "channelId": "UCZTtZc3Grm5z2iuCJvU-rgw",
-        "title": "김연아의 깻잎논쟁",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/f-6MqfR9RjI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/f-6MqfR9RjI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/f-6MqfR9RjI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "웃긴썰 모아모아",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-09T03:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "tqJ_qo96KXdKci1ktIUTl_yXjdc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "xDQfaFUxyi8"
-      },
-      "snippet": {
-        "publishedAt": "2019-06-05T14:17:55Z",
-        "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
-        "title": "2013 ISU 세계피겨선수권 프리 &#39;레 미제라블&#39; [습츠_퀸연아 포에버]",
-        "description": "2013 ISU 세계피겨선수권 프리 '레 미제라블' [습츠_퀸연아 포에버] 기립박수를 이끈 여왕의 귀환...레 미제라블 ✓ 곡 : 레 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xDQfaFUxyi8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xDQfaFUxyi8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xDQfaFUxyi8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "스브스스포츠 SUBUSU SPORTS",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-06-05T14:17:55Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "Guu10t0aq81cSfq_EaKSgVNrzOo",
       "id": {
         "kind": "youtube#video",
@@ -686,40 +449,6 @@
         "channelTitle": "Olympics",
         "liveBroadcastContent": "none",
         "publishTime": "2016-02-23T09:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KVMrDK3pA4kdjUF32TGEm60u3dc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wv1nGWAf5lU"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-22T04:43:50Z",
-        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
-        "title": "[예고] (경)유퀴즈 200회(축) 오늘을 더욱 빛내주실 김연아 자기님의 러블리 일상 대공개!#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.200",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 유 퀴즈 온 더 블럭 [수] 저녁 8: 45 tvN #유퀴즈온더블럭 #유퀴즈 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wv1nGWAf5lU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wv1nGWAf5lU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wv1nGWAf5lU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "tvN",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-22T04:43:50Z"
       }
     },
     {
@@ -758,40 +487,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rqfbVRVg9Rg_LpA836bShDgunJM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KI8EjRYn_Og"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-29T13:13:32Z",
-        "channelId": "UC920m3pMPH45qztdhppZhwA",
-        "title": "피겨퀸연아는 받은 트로피만 한 트럭일 것 같은데, 어떻게 보관하세요?#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.200 | tvN 230628 방송",
-        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #유퀴즈 #유재석 #조세호 유퀴즈온더블럭 YOU QUIZ ON THE BLOCK ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KI8EjRYn_Og/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KI8EjRYn_Og/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KI8EjRYn_Og/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "유 퀴즈 온 더 튜브",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T13:13:32Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "S5gmadWHayFz3yjHRBqqsI5cJns",
       "id": {
         "kind": "youtube#video",
@@ -826,36 +521,342 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "NWoMOIFsjELDuM35cIEjJkMGHPE",
+      "etag": "KVMrDK3pA4kdjUF32TGEm60u3dc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rZOSXKKyaP0"
+        "videoId": "wv1nGWAf5lU"
       },
       "snippet": {
-        "publishedAt": "2023-06-29T09:34:00Z",
-        "channelId": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
-        "title": "[김연아] 연느님에게 서운한 유느님",
-        "description": "유퀴즈온더블럭 #샾잉 #Shorts we're :DIGGLE family.",
+        "publishedAt": "2023-06-22T04:43:50Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "[예고] (경)유퀴즈 200회(축) 오늘을 더욱 빛내주실 김연아 자기님의 러블리 일상 대공개!#유퀴즈온더블럭 | YOU QUIZ ON THE BLOCK EP.200",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 유 퀴즈 온 더 블럭 [수] 저녁 8: 45 tvN #유퀴즈온더블럭 #유퀴즈 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rZOSXKKyaP0/default.jpg",
+            "url": "https://i.ytimg.com/vi/wv1nGWAf5lU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rZOSXKKyaP0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wv1nGWAf5lU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rZOSXKKyaP0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wv1nGWAf5lU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "샾잉 #ing",
+        "channelTitle": "tvN",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-29T09:34:00Z"
+        "publishTime": "2023-06-22T04:43:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "38kpFUkcIhjZJj1YCFD00aj0Dt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uun--7qZEok"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-02T06:15:01Z",
+        "channelId": "UCobTIrypPeWqzeAQF0Eq-Jw",
+        "title": "도발에 대처하는 김연아의 자세",
+        "description": "김연아.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uun--7qZEok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uun--7qZEok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uun--7qZEok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "인물 백과사전",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-02T06:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YyhDRfSpVv69rmD4M_CqGQ4IX4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d_VgKx461SQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-04T01:10:16Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "스타 부부의 신혼집 랜선 집들이! 김연아💓고우림의 신혼집은?! #highlight #[tvN]프리한닥터M EP.109",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f #프리한닥터 #오상진 #김소영 프리한 닥터M freedoctorM EP.109 인생 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_VgKx461SQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_VgKx461SQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_VgKx461SQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-04T01:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "izvJPL4huMbVhmz1KaYcho0VbO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G1EBVdp-WKk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T08:00:07Z",
+        "channelId": "UCvRIeQeTZDHRcqVZRu0XBug",
+        "title": "김연아가 최고라 불리는 이유",
+        "description": "김연아 #KimYuna #고우림 #피겨 #포레스텔라 #즐숏 #라미 #편집자_라미 #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1EBVdp-WKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1EBVdp-WKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1EBVdp-WKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빽능 - SBS 옛날 예능",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RogRPb6Eteqyb7bMaiv8nfQJaPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qOLyPPDD1Ao"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-11T11:32:34Z",
+        "channelId": "UCk4XjBsDuzItvsuVGiDdKqQ",
+        "title": "아~ 김연아 불멸의 연기 / 2010 밴쿠버 올림픽 프리 &#39;거슈윈 피아노 협주곡 바장조&#39; [습츠_퀸연아 포에버]",
+        "description": "아~ 김연아 불멸의 연기 / 2010 밴쿠버 올림픽 프리 '거슈윈 피아노 협주곡 바장조' [습츠_퀸연아 포에버] 김연아, 여왕의 대관식 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qOLyPPDD1Ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qOLyPPDD1Ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qOLyPPDD1Ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스스포츠 SUBUSU SPORTS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-11T11:32:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G6kprXAQ_MHrYd1Fu_XaLZ-5lZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K5F7wgJ370c"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-25T09:35:42Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "&quot;이 길을 갈 수밖에 없겠구나&quot;...김연아가 말한 &#39;운명의 순간&#39; / SBS / 모아보는 뉴스",
+        "description": "0:00 \"피겨 여왕의 시대가 열립니다!\" 2010 밴쿠버 동계올림픽 금메달 19:47 \"고맙습니다. 행복했습니다\" 2014 소치 동계올림픽 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K5F7wgJ370c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K5F7wgJ370c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K5F7wgJ370c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-25T09:35:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XrAyfWf4TLWIkZ0evb1yjORPuz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BooYF5S2CK0"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T10:01:47Z",
+        "channelId": "UC8MZ9ZwzpxykamvyAtm1mKA",
+        "title": "김연아에 대해 몰랐던 재밌는 사실들",
+        "description": "김연아#피겨스케이팅#올림픽 피겨 스케이팅 선수 김연아에 대해 몰랐던 재밌는 사실들에 대한 이야기입니다 1. 어린 시절 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BooYF5S2CK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BooYF5S2CK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BooYF5S2CK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "캐릭터필름",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T10:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j6FGnF1UTjd91siYNz89jSl2k7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gNGvp4MajRA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-11T06:11:13Z",
+        "channelId": "UCYRrUD5v5j_Ei8sKOo7mhoQ",
+        "title": "&#39;김연아 금메달 되찾아오자!&#39; 대한체육회 움직였다",
+        "description": "소트니코바의 '도핑 양성' 발언에 대해 대한체육회가 IOC에 정식으로 재조사를 요구하기로 했습니다. #김연아 #소트니코바 #피겨 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gNGvp4MajRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gNGvp4MajRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gNGvp4MajRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠빅뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-11T06:11:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uyYfGJ-On2Qnq-Eoim7I0pMLMyg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vRm2rVMQxak"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-21T23:52:57Z",
+        "channelId": "UCZg4G5PJDUIUfps-QHgpFEQ",
+        "title": "소란스럽게 수다떨던 유럽의 관중들을 일순간에 정지화면처럼 굳게 만든 한국인",
+        "description": "당신이 미처 몰랐던 이야기 이제 공개합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRm2rVMQxak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRm2rVMQxak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRm2rVMQxak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "미처몰랐던이야기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-21T23:52:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v2_EnmYec8Dhp5cIgQr-kiDbEXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A8ulsKRWznk"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-07T01:03:03Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[뉴스 &#39;꾹&#39;] &quot;도핑 양성&quot; 소트니코바 폭탄발언 &#39;김연아 금메달&#39; 강탈 맞았나 (2023.07.07/MBC뉴스)",
+        "description": "김연아 #소트니코바 #도핑.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A8ulsKRWznk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A8ulsKRWznk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A8ulsKRWznk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-07T01:03:03Z"
       }
     }
   ]

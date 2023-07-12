@@ -43,7 +43,7 @@ export default function Videos() {
   }, [count, handleScroll]);
 
   return (
-    <>
+    <div className="max-w-7xl">
       <VideosNav />
       {isLoading && 'Loading...'}
       {error && '다시 시도해주십시요.'}
@@ -51,7 +51,7 @@ export default function Videos() {
         <section className="flex justify-center">
           {console.log(videos)}
           <table className="w-full mx-4 min-h-fit">
-            <thead className="bg-gray-200 h-12 sticky top-36 z-10">
+            <thead className="bg-gray-200 h-12 sticky top-36 z-10 dark:bg-slate-700 dark:text-white">
               <tr className="text-center">
                 <th className="font-medium rounded-tl-lg w-14">선택</th>
                 <th className="font-medium w-44 ">썸네일</th>
@@ -62,7 +62,7 @@ export default function Videos() {
                 <th className="font-medium rounded-tr-lg w-32">게시일</th>
               </tr>
             </thead>
-            <tbody className="bg-white">
+            <tbody className="bg-white dark:bg-slate-900 dark:text-white">
               {videos.pages.map((page) =>
                 page.items.map((video) => (
                   <Video video={video} key={video.id.videoId} />
@@ -72,6 +72,6 @@ export default function Videos() {
           </table>
         </section>
       )}
-    </>
+    </div>
   );
 }

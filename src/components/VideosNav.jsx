@@ -31,16 +31,16 @@ export default function VideosNav() {
   }, [keyword]);
   return (
     <>
-      <section className="flex justify-between py-8 px-4 sticky top-14 z-10 bg-gray-100">
+      <section className="flex justify-between py-8 px-4 sticky top-14 z-10 bg-gray-100 dark:bg-1-bgDark">
         <div className="flex gap-4">
           <form
             className="flex border-[1px] border-0-main rounded-lg w-fit bg-white"
             onSubmit={handleSumbit}
           >
-            <div className="flex px-2 justify-center items-center">
+            <div className="flex px-2 justify-center items-center rounded-l-lg dark:bg-1-bgDark">
               <input
                 placeholder="단어나 문장 입력"
-                className="rounded-lg indent-2 text-sm h-8 w-44 outline-none"
+                className="rounded-lg indent-2 text-sm h-8 w-44 outline-none dark:bg-1-bgDark dark:text-white"
                 onChange={(e) => setSearch(e.target.value)}
                 value={search}
               />
@@ -65,7 +65,7 @@ export default function VideosNav() {
               onClick={handleHistory}
               type="button"
               className={cls(
-                'flex items-center px-2 rounded shadow-sm gap-2',
+                'flex items-center px-2 rounded shadow-sm gap-2 dark:bg-gray-700 dark:text-white',
                 { 'bg-white': !toggled },
                 { 'bg-green-700 text-white': toggled }
               )}
@@ -75,7 +75,7 @@ export default function VideosNav() {
             </button>
             <button
               type="button"
-              className="bg-white rounded px-3 shadow-sm text-lg"
+              className="bg-white rounded px-3 shadow-sm text-lg dark:bg-gray-700 dark:text-white"
             >
               <VscSettings className="rotate-90 opacity-50" />
             </button>
@@ -84,35 +84,35 @@ export default function VideosNav() {
         <div className="flex gap-2">
           <button
             type="button"
-            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1"
+            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1 dark:bg-gray-700 dark:text-white"
           >
             <BiFolderPlus />
             <span className="text-sm">영상 수집</span>
           </button>
           <button
             type="button"
-            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1"
+            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1 dark:bg-gray-700 dark:text-white"
           >
             <BiEnvelope />
             <span className="text-sm">연락처 수집</span>
           </button>
           <button
             type="button"
-            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1"
+            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1 dark:bg-gray-700 dark:text-white"
           >
             <BiTrash />
             <span className="text-sm">영상 제거</span>
           </button>
           <button
             type="button"
-            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1"
+            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1 dark:bg-gray-700 dark:text-white"
           >
             <BiTrash />
             <span className="text-sm">채널 제거</span>
           </button>
           <button
             type="button"
-            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1"
+            className="bg-white flex items-center px-3 py-2 rounded-lg gap-1 dark:bg-gray-700 dark:text-white"
           >
             <span className="text-sm">123</span>
           </button>
@@ -120,10 +120,10 @@ export default function VideosNav() {
       </section>
       {toggled && (
         <section className="w-full px-4 mb-5">
-          <div className="flex gap-4 text-sm h-12 items-center justify-center bg-gray-300 rounded-t-md px-10">
+          <div className="flex gap-4 text-sm h-12 items-center justify-center bg-gray-300 rounded-t-md px-10 dark:bg-gray-800 dark:text-white">
             검색내역
           </div>
-          <div className="bg-white p-7 rounded-b-md flex justify-center gap-2">
+          <div className="bg-white p-7 rounded-b-md flex justify-center gap-2 dark:bg-gray-700">
             {history.map((value, index) => (
               <button
                 key={value + index}

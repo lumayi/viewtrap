@@ -19,7 +19,7 @@ export default function Video({ video }) {
   return (
     <>
       {detail && channel && (
-        <tr className="text-center">
+        <tr className="text-center border-b border-b-slate-400">
           <td>
             <input type="checkbox" />
           </td>
